@@ -1,7 +1,7 @@
-# 🌷 Dolly Perfil - Meu Site Kawaii 🌷
+# 🌷 Dolly Perfil 🌷
 
-Esse é meu projetinho pessoal em HTML e CSS para treinar desenvolvimento front-end com uma vibe **cute core / kawaii core / morute**!  
-Sou a Dolly, uma baby dev front-end, e esse é o meu cantinho fofinho na web! 🧸🍓
+Esse é meu projetinho pessoal em HTML e CSS para treinar desenvolvimento front-end!  
+Sou a Dolly, uma baby dev front-end, e esse é o meu cantinho! 🧸🍓
 
 ---
 
@@ -74,11 +74,6 @@ Esse projeto é meu espaço para aprender, experimentar e me divertir com front-
 
 ---
 
-## 📸 Screenshot
-
-> *(Coloque aqui uma imagem bonitinha do site futuramente!)*
-
----
 
 ## ✨ Licença
 
