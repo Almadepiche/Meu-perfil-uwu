@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff0f6;
+  color: #3d2c41;
+  font-family: 'Cherry Bomb One', cursive;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #ffafcc;
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+p {
+  font-size: 1.3rem;
+  margin-bottom: 25px;
+}
+
+img {
+  width: 220px;
+  border-radius: 30px;
+  border: 5px dotted #fbaed2;
+  margin-bottom: 25px;
+  box-shadow: 0 0 10px #ffc8dd;
+}
+
+ul {
+  list-style-type: "🍓 ";
+  text-align: left;
+  max-width: 420px;
+  margin: 0 auto 25px;
+  font-size: 1.1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #ffafcc;
+  padding: 12px 20px;
+  border-radius: 12px;
+  font-weight: bold;
+  box-shadow: 0 4px #ffcad4;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  background-color: #ffc8dd;
+  box-shadow: 0 2px #ffcad4;
+  transform: translateY(2px);
+}
+
+.heart {
+    display: inline-block;
+    animation: pulse 1s infinite alternate;
+    color: #ffafcc;
+    margin-left: 8px;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+      opacity: 0.6;
+    }
+    100% {
+      transform: scale(1.4);
+      opacity: 1;
+    }
+  }
+  
+  .audio-box {
+    background-color: #fdf1f7;
+    padding: 18px;
+    border-radius: 20px;
+    max-width: 360px;
+    margin: 30px auto;
+    border: 2px dashed #f5a5c4;
+    box-shadow: 0 0 12px #ffbcd6;
+    text-align: center;
+  }
+  
+  .audio-box p {
+    font-family: 'Comic Neue', cursive;
+    margin-bottom: 10px;
+    color: #c94f7c;
+  }
+  
+  
+  
